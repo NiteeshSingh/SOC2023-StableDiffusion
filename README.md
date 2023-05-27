@@ -19,9 +19,6 @@
 * Tried using Transfer learning with finetuning
     * the task doesn't demand transfer learning infact it wasn't much effective in terms of accuracy because resnet was pretrained on ImageNet which have different domain than our pokemon datset (atleast that's what i reasoned out)
 
-#### comment to grader
-* i will build the resnet model from scratch and train it in some time
-
 ## Week 3
 ### training autoencoder and variational autoencoder
 
