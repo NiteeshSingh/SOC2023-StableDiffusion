@@ -27,3 +27,11 @@
 
 * trained a variational autoencoder on fashion-mnist dataset
 * trained a variational autoencoder on fashion-mnist dataset
+
+## Week 4-5
+### training a diffusion model 
+
+* trained a diffusion model on fashion mnist dataset
+* used diffusion library unet model for trainng
+* custom build noise scheduler class
+* results are shown at the end of notebook inside week 4-5 directory
