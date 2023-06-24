@@ -35,3 +35,12 @@
 * used diffusion library unet model for trainng
 * custom build noise scheduler class
 * results are shown at the end of notebook inside week 4-5 directory
+
+## Week 6
+### training a u-net segmentation model
+
+* trained a u-net model to segment images
+* write custom code to select features to train the segmentation task
+
+### Dataset
+* [link](https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge)
