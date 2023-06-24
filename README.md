@@ -33,7 +33,6 @@
 
 * trained a diffusion model on fashion mnist dataset
 * used unet2d model from diffusers library
-* used diffusion library unet model for trainng
 * custom build noise scheduler class
 * results are shown at the end of notebook inside week 4-5 directory
 
