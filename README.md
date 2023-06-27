@@ -51,5 +51,4 @@
 * trained a ddpm model on fashion mnist dataset
 * used unet2d model from [annoted diffusion unet](https://nn.labml.ai/diffusion/ddpm/unet.html)
 * results are shown at the end of notebook inside week 7 directory
-* kaggle notebook [link](https://www.kaggle.com/code/niteeshsingh/ddpm-model)
-* conditional generation- ddpm model [link](https://www.kaggle.com/code/niteeshsingh/conditional-ddpm-model)
+* conditional generation- ddpm model [link](https://www.kaggle.com/code/niteeshsingh/conditional-ddpm-model/edit)
