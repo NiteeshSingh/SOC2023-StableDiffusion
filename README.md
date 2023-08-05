@@ -1,4 +1,5 @@
 # SOC-2023 Stable Diffusion
+### [project page](https://abaft-pheasant-b08.notion.site/Stable-Diffusion-301d48ffbc4f4455bcc70d75c9448adb)
 ## extra
 * Build a custom training class named "Task" in the notebook, it has various cool fetures
     * we can continue training where we left previously
@@ -52,3 +53,11 @@
 * used unet2d model from [annoted diffusion unet](https://nn.labml.ai/diffusion/ddpm/unet.html)
 * results are shown at the end of notebook inside week 7 directory
 * conditional generation- ddpm model [link](https://www.kaggle.com/code/niteeshsingh/conditional-ddpm-model/edit)
+
+## Week 8
+### training a latent diffusion model 
+
+* trained a ddpm model on [butterfly datset](https://huggingface.co/datasets/huggan/smithsonian_butterflies_subset), also trained on [lsunchurch](https://www.kaggle.com/datasets/ajaykgp12/lsunchurch) dataset
+* used unet2d model from [annoted diffusion unet](https://nn.labml.ai/diffusion/ddpm/unet.html)
+* used pretrained VAE from diffusers library to encode images into latent space 
+* results are shown at the end of notebooks inside week 8 directory
